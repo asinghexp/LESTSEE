@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63214" started-at="2019-12-02T16:07:06Z" finished-at="2019-12-02T16:08:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63214" started-at="2019-12-02T16:07:06Z" finished-at="2019-12-02T16:08:09Z">
+      <class name="LETSSEE.LocalAndroidTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LETSSEE.LocalAndroidTest@61832929]" name="setUp" is-config="true" duration-ms="28637" started-at="2019-12-02T21:37:06Z" finished-at="2019-12-02T21:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="quickStartAndroidNativeDemo()[pri:0, instance:LETSSEE.LocalAndroidTest@61832929]" name="quickStartAndroidNativeDemo" duration-ms="27419" started-at="2019-12-02T21:37:35Z" finished-at="2019-12-02T21:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quickStartAndroidNativeDemo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LETSSEE.LocalAndroidTest@61832929]" name="tearDown" is-config="true" duration-ms="7123" started-at="2019-12-02T21:38:02Z" finished-at="2019-12-02T21:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LETSSEE.LocalAndroidTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
