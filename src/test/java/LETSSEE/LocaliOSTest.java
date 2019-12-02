@@ -20,7 +20,7 @@ public class LocaliOSTest {
 
     @BeforeTest
     public void setUp() throws MalformedURLException {
-        dc.setCapability("testName", "Quick Start iOS Native Demo");
+        dc.setCapability("testName", "Quick Start iOS Native Demo LETSEE");
         dc.setCapability("accessKey", accessKey);
         dc.setCapability("deviceQuery", "@os='ios' and @category='PHONE'");
         dc.setCapability(MobileCapabilityType.APP, "cloud:com.experitest.ExperiBank");
