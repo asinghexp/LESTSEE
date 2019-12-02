@@ -20,7 +20,7 @@ public class LocalAndroidTest {
 
     @BeforeTest
     public void setUp() throws MalformedURLException {
-        dc.setCapability("testName", "Quick Start Android Native Demo");
+        dc.setCapability("testName", "Quick Start Android Native Demo LETSEE");
         dc.setCapability("accessKey", accessKey);
         dc.setCapability("deviceQuery", "@os='android' and @category='PHONE'");
         dc.setCapability(MobileCapabilityType.APP, "cloud:com.experitest.ExperiBank/.LoginActivity");
